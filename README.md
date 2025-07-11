@@ -1,9 +1,11 @@
 # ECommerce Data Analysis with SQL & Python
 --
 This project showcases data analysis of an eCommerce dataset using SQL and Python (Pandas). It addresses 15 business questions ranging from basic data exploration to advanced customer behavior analysis.
+--
 
-📁 Project Structure
-📦 ecommerce-sql-python-project ├── questions.txt # 15 business analysis questions ├── csv_to_sql.py # Script to load CSVs into MySQL ├── dataset_link.txt # Dataset source link ├── ecommerce_analysis.ipynb # Jupyter Notebook with SQL + Python analysis └── README.md # Project overview and instructions
+# Project Structure
+--
+📦 ecommerce-sql-python-project ├── questions.txt # 15 business analysis questions ├── csv_to_sql.py # Script to load CSVs into MySQL ├── dataset.txt # Dataset source link ├── ecommerce_analysis.ipynb # Jupyter Notebook with SQL + Python analysis └── README.md # Project overview and instructions
 
 📊 Questions Covered
 This project answers 15 real-world business questions categorized into:
