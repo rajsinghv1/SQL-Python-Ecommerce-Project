@@ -23,7 +23,7 @@ This project answers **15 real-world business questions** categorized into:
 -  **Intermediate queries** (5 questions)  
 -  **Advanced queries** (5 questions)
 
-📄 See [`questions.txt`](./questions.txt) for the full list.
+📄 See [`questions.txt`](https://github.com/rajsinghv1/SQL-Python-Ecommerce-Project/blob/main/questions.txt) for the full list.
 
 ---
 
