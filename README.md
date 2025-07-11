@@ -8,20 +8,20 @@ This project showcases data analysis of an eCommerce dataset using **SQL** and *
 
 ecommerce-sql-python-project/
 ├── questions.txt # 15 business analysis questions
-├── csv_to_sql.py # Script to load CSVs into MySQL
-├── dataset_link.txt # Dataset source link
-├── ecommerce_analysis.ipynb # Jupyter Notebook with SQL + Python analysis
+├── csv_to_sql.ipynb # Script to load CSVs into MySQL
+├── dataset.txt # Dataset source link
+├── python&sql-ecommerce.ipynb # Jupyter Notebook with SQL + Python analysis
 └── README.md # Project overview and instructions
 
 ---
 
-## 📊 Questions Covered
+## Questions Covered
 
 This project answers **15 real-world business questions** categorized into:
 
-- 🟢 **Basic queries** (5 questions)  
-- 🟡 **Intermediate queries** (5 questions)  
-- 🔴 **Advanced queries** (5 questions)
+-  **Basic queries** (5 questions)  
+-  **Intermediate queries** (5 questions)  
+-  **Advanced queries** (5 questions)
 
 📄 See [`questions.txt`](./questions.txt) for the full list.
 
@@ -36,24 +36,24 @@ This project answers **15 real-world business questions** categorized into:
 
 ---
 
-## 📥 How to Use This Project
+##  How to Use This Project
 
 1. **Download the dataset**
-   - Check `dataset_link.txt` for the dataset source.
+   - Check `dataset.txt` for the dataset source.
 
 2. **Load data into MySQL**
-   - Run `csv_to_sql.py`  
+   - Run `csv_to_sql.ipynb`  
    - This script reads all CSV files and creates tables in your MySQL database.
 
 3. **Explore the Analysis**
-   - Open `ecommerce_analysis.ipynb` in Jupyter Notebook.
+   - Open `python&sql-ecommerce.ipynb` in Jupyter Notebook.
    - Run each section to explore SQL queries and Python-based visualizations.
 
-> 🔒 **Note:** Update your MySQL credentials in `csv_to_sql.py` according to your local system setup.
+>  **Note:** Update your MySQL credentials in `csv_to_sql.ipynb` according to your local system setup.
 
 ---
 
-## 💡 Why This Project?
+##  Why This Project?
 
 This project:
 
