@@ -1,4 +1,4 @@
-#  ECommerce Data Analysis with SQL & Python
+#  eCommerce Data Analysis with SQL & Python
 
 This project showcases data analysis of an eCommerce dataset using **SQL** and **Python (Pandas)**. It addresses **15 business questions** ranging from basic data exploration to advanced customer behavior analysis.
 
